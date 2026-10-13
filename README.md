@@ -2,6 +2,6 @@
 
 ## 📷 Preview 
 
-![mediboxschematic](mediboxschematic.jpg) 
+![mediboxschematic.jpg](mediboxschematic.jpg) 
  
  
