@@ -1,5 +1,4 @@
 # medibox
-schematic design
 
 ## 📷 Preview 
 
