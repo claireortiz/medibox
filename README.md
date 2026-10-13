@@ -3,6 +3,6 @@ schematic design
 
 ## 📷 Preview 
 
-![medibox schematic](medibox/schematic.jpg) 
+![medibox schematic.jpg](medibox/schematic.jpg) 
 
  
