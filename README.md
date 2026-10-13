@@ -1,7 +1,7 @@
-# medibox
+# MediBox
 
 ## 📷 Preview 
 
-![medibox schematic.jpg](medibox-schematic.jpg)
-
+![mediboxschematic](mediboxschematic.jpg) 
+ 
  
